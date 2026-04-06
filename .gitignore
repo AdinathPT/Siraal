@@ -1,0 +1,19 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+#others
+CNC_Machine_Files
+output
+output_2D
+output_3d
+output_reports
+output_manual
+.env
